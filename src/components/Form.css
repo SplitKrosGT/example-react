@@ -1,0 +1,14 @@
+.Form__box {
+    display: flex;
+    flex-direction: column;
+}
+.Box__send {
+    display: flex;
+    flex-direction: column;
+}
+.Box__title {
+    display: flex;
+}
+.Box__message {
+    display: flex;
+}
